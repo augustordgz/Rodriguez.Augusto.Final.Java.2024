@@ -1,0 +1,4 @@
+tipo,codigo,nombre,precio,stock,categoria,extra1,extra2
+CONSOLA,C001,PlayStation 5,910000.0,10,HARDWARE,Sony,1TB
+VIDEOJUEGO,V001,Elden Ring,40500.0,20,SOFTWARE,RPG,PC
+ACCESORIO,A001,Control DualSense,60000.0,15,PERIFERICO,Control,true
