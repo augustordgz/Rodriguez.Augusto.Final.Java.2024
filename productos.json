@@ -1,0 +1,44 @@
+{
+  "consolas": [
+    {
+      "marca": "Sony",
+      "almacenamiento": "1TB",
+      "codigo": "C001",
+      "nombre": "PlayStation 5",
+      "precio": 800000.0,
+      "stock": 10,
+      "categoria": "HARDWARE"
+    },
+    {
+      "marca": "",
+      "almacenamiento": "",
+      "codigo": "C002",
+      "nombre": "Xbox Series X",
+      "precio": 900000.0,
+      "stock": 5,
+      "categoria": "HARDWARE"
+    }
+  ],
+  "videojuegos": [
+    {
+      "genero": "RPG",
+      "plataforma": "PC",
+      "codigo": "V001",
+      "nombre": "Elden Ring",
+      "precio": 45000.0,
+      "stock": 20,
+      "categoria": "SOFTWARE"
+    }
+  ],
+  "accesorios": [
+    {
+      "tipo": "Control",
+      "compatibleMultiplataforma": true,
+      "codigo": "A001",
+      "nombre": "Control DualSense",
+      "precio": 60000.0,
+      "stock": 15,
+      "categoria": "PERIFERICO"
+    }
+  ]
+}
