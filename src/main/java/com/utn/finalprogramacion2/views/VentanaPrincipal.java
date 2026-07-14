@@ -54,7 +54,7 @@ public class VentanaPrincipal {
         raiz.setBottom(construirFormulario());
 
         Scene escena = new Scene(raiz, 950, 700);
-        stage.setTitle("FRS Gaming - Sistema de Gestión");
+        stage.setTitle("CRUD Gaming - Sistema de Gestión");
         stage.setScene(escena);
 
         stage.setOnCloseRequest(event -> {
@@ -111,6 +111,7 @@ public class VentanaPrincipal {
         grid.addRow(0, new Label("Tipo:"), comboTipo, new Label("Código:"), campoCodigo);
         grid.addRow(1, new Label("Nombre:"), campoNombre, new Label("Precio:"), campoPrecio);
         grid.addRow(2, new Label("Stock:"), campoStock, new Label("Categoría:"), comboCategoria);
+        grid.addRow(3, labelExtra1, campoExtra1, labelExtra2, campoExtra2);
 
         btnAgregar.setOnAction(e -> agregarProducto());
         btnActualizar.setOnAction(e -> actualizarProducto());

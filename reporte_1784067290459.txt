@@ -1,0 +1,10 @@
+-------------------------------------------------
+ LISTADO DE PRODUCTOS 
+ Filtro aplicado: Listado exportado desde la interfaz gráfica
+ Total de productos: 4
+-------------------------------------------------
+
+1. [C002] Xbox Series X - $900000,00 - Stock: 5 - Categoria: HARDWARE | Marca: Microsoft | Almacenamiento: 1TB
+2. [V001] Elden Ring - $40500,00 - Stock: 20 - Categoria: SOFTWARE | Genero: RPG | Plataforma: PC
+3. [A001] Control DualSense - $120000,00 - Stock: 15 - Categoria: PERIFERICO | Tipo: Control | Multiplataforma: Si
+4. [V002] GTA VI - $150000,00 - Stock: 100 - Categoria: SOFTWARE | Genero: ACCIÓN | Plataforma: PLAYSTATION
