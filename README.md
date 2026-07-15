@@ -34,20 +34,20 @@ Soy Augusto Rodríguez, tengo 20 años, soy estudiante de la Tecnicatura Univers
 
 ### Capturas de pantalla
 
-![Vista principal del proyecto](src/main/java/com/utn/finalprogramacion2/screenshots/Captura de pantalla 2026-07-14 190742.png)
-![Selección del orden por categoria](src/main/java/com/utn/finalprogramacion2/screenshots/Captura de pantalla 2026-07-14 190751.png)
-![Ordenado por categoria HARDWARE](src/main/java/com/utn/finalprogramacion2/screenshots/Captura de pantalla 2026-07-14 190803.png)
-![Selección de formato](src/main/java/com/utn/finalprogramacion2/screenshots/Captura de pantalla 2026-07-14 190814.png)
-![Carga de datos desde el formato JSON](src/main/java/com/utn/finalprogramacion2/screenshots/Captura de pantalla 2026-07-14 190826.png)
-![Aplico descuento del 10% al videojuego V001](src/main/java/com/utn/finalprogramacion2/screenshots/Captura de pantalla 2026-07-14 191006.png)
-![Modifico el periferico A001](src/main/java/com/utn/finalprogramacion2/screenshots/Captura de pantalla 2026-07-14 191117.png)
-![Confirmación de eliminación de algún producto](src/main/java/com/utn/finalprogramacion2/screenshots/Captura de pantalla 2026-07-14 191134.png)
-![Producto eliminado](src/main/java/com/utn/finalprogramacion2/screenshots/Captura de pantalla 2026-07-14 191143.png)
-![Agrego nuevo producto](src/main/java/com/utn/finalprogramacion2/screenshots/Captura de pantalla 2026-07-14 191309.png)
-![Producto agregado correctamente](src/main/java/com/utn/finalprogramacion2/screenshots/Captura de pantalla 2026-07-14 191318.png)
-![Guardado de datos en formato CSV](src/main/java/com/utn/finalprogramacion2/screenshots/Captura de pantalla 2026-07-14 191343.png)
-![Generación de reporte de texto](src/main/java/com/utn/finalprogramacion2/screenshots/Captura de pantalla 2026-07-14 191356.png)
-![Reporte de texto generado](src/main/java/com/utn/finalprogramacion2/screenshots/Captura de pantalla 2026-07-14 191526.png)
+![Vista principal del proyecto](src/main/java/com/utn/finalprogramacion2/screenshots/Captura_de_pantalla_2026-07-14190742.png)
+![Selección del orden por categoria](src/main/java/com/utn/finalprogramacion2/screenshots/Captura_de_pantalla_2026-07-14190751.png)
+![Ordenado por categoria HARDWARE](src/main/java/com/utn/finalprogramacion2/screenshots/Captura_de_pantalla_2026-07-14190803.png)
+![Selección de formato](src/main/java/com/utn/finalprogramacion2/screenshots/Captura_de_pantalla_2026-07-14190814.png)
+![Carga de datos desde el formato JSON](src/main/java/com/utn/finalprogramacion2/screenshots/Captura_de_pantalla_2026-07-14190826.png)
+![Aplico descuento del 10% al videojuego V001](src/main/java/com/utn/finalprogramacion2/screenshots/Captura_de_pantalla_2026-07-14191006.png)
+![Modifico el periferico A001](src/main/java/com/utn/finalprogramacion2/screenshots/Captura_de_pantalla_2026-07-14191117.png)
+![Confirmación de eliminación de algún producto](src/main/java/com/utn/finalprogramacion2/screenshots/Captura_de_pantalla_2026-07-14191134.png)
+![Producto eliminado](src/main/java/com/utn/finalprogramacion2/screenshots/Captura_de_pantalla_2026-07-14191143.png)
+![Agrego nuevo producto](src/main/java/com/utn/finalprogramacion2/screenshots/Captura_de_pantalla_2026-07-14191309.png)
+![Producto agregado correctamente](src/main/java/com/utn/finalprogramacion2/screenshots/Captura_de_pantalla_2026-07-14191318.png)
+![Guardado de datos en formato CSV](src/main/java/com/utn/finalprogramacion2/screenshots/Captura_de_pantalla_2026-07-14191343.png)
+![Generación de reporte de texto](src/main/java/com/utn/finalprogramacion2/screenshots/Captura_de_pantalla_2026-07-14191356.png)
+![Reporte de texto generado](src/main/java/com/utn/finalprogramacion2/screenshots/Captura_de_pantalla_2026-07-14191526.png)
 
 ## Diagrama de clases UML
 
